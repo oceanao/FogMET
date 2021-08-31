@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+.idea/*
+model.png
+*/__pycache__/*
+tfboard_logs/
+tensorboard_logs/
+weights/
+image_logs/
+trainer_config.json
+dataset/
+intensity/
+
+!.idea/dictionaries/
