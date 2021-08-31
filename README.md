@@ -18,6 +18,7 @@ The full source code is available under GPL-3.0 License in my Github repository 
  <img src="Different fog directions.png">
   <h3 align="center">Simulates fog in different directions.</h3>
 </p>
+#### See <a href="https://github.com/oceanao/FogMET/tree/main/sample-images" target="_blank">sample-images</a>. for more results
 <div align="right">
 &copy; Oceanao 2021
 </div>
